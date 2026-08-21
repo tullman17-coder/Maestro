@@ -78,7 +78,7 @@ smplfitter @ https://github.com/deepbeepmeep/smplfitter/releases/download/v0.2.1
 
 # Config & orchestration
 omegaconf==2.3.0
-hydra-core==1.3.2
+hydra-core==1.3.4
 easydict==1.13
 pydantic==2.10.6
 
