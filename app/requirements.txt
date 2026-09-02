@@ -11,7 +11,7 @@ mmgp==3.7.12
 
 # Core AI stack
 diffusers==0.36.0
-transformers==4.57.1   # 4.57.x adds transformers.models.qwen3_vl (required by HiDream O1)
+transformers==5.10.1   # 4.57.x adds transformers.models.qwen3_vl (required by HiDream O1)
 tokenizers==0.22.1     # transformers 4.57.1 requires tokenizers>=0.22.0,<=0.23.0
 
 accelerate==1.12.0
