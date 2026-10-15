@@ -100,7 +100,7 @@ phonemizer-fork  # G2P backend used by misaki.espeak — namespace `phonemizer` 
 espeakng-loader  # Bundles the espeak-ng binary so phonemizer doesn't need a separate system install
 pydub            # Imported by seedvc/app_vc.py — used by Scenema's voice-reference (SeedVC) mode
 gitdb==4.0.12
-gitpython==3.1.45
+gitpython==3.1.59
 stringzilla==4.0.14
 xxhash==3.6.0
 munch==4.0.0
